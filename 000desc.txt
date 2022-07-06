@@ -1,3 +1,8 @@
-サンプル-I2C
-I2Cバスの制御用のAPI利用サンプルです。
-https://github.com/monowireless/Samp_I2C
+[JAPANESE]
+TITLE=サンプル-I2C
+DESC=I2Cバスの制御用のAPI利用サンプルです。
+URL=https://github.com/monowireless/Samp_I2C
+[ENGLISH]
+TITLE=Samp_I2C
+DESC=Sample use of API for I2C bus control.
+URL=https://github.com/monowireless/Samp_I2C
