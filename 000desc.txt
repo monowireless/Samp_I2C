@@ -1,8 +1,10 @@
 [JAPANESE]
-TITLE=サンプル-I2C
-DESC=I2Cバスの制御用のAPI利用サンプルです。
+TITLE=（非推奨*）I2C サンプル
+DESC=I2Cバスを制御するサンプルです。
+*Act_samples/BRD_I2C_TEMPHUMIDをご利用ください
 URL=https://github.com/monowireless/Samp_I2C
 [ENGLISH]
-TITLE=Samp_I2C
-DESC=Sample use of API for I2C bus control.
+TITLE=(Deprecated*) Samp_I2C
+DESC=App sample for I2C.
+*Use Act_samples/BRD_I2C_TEMPHUMID instead.
 URL=https://github.com/monowireless/Samp_I2C
